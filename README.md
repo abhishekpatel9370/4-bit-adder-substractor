@@ -37,13 +37,6 @@ Edit
 This is implemented by:
 - XORing B with `Sub` to invert bits when subtracting
 - XORing `Cin` with `Sub` to properly form the `+1` in 2's complement subtraction
-
----
-
-# License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 # Author
